@@ -2,3 +2,5 @@
 ignoredirmessage
 
 /home/casjay/.local/dotfiles/system
+# ignore commit message
+.gitcommit
